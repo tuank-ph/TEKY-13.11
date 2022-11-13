@@ -104,6 +104,7 @@ QScrollArea {
 
 /* 
 pip install pyside6, wolframalpha, pyttsx3, speechrecognition
+https://www.canva.com/design/DAFRiqqAoZU/O8aZUDQWQVQCOkV0Eltcnw/view?utm_content=DAFRiqqAoZU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 "History of conversation will be shown in here",
 "Tap the voice button to talk",
