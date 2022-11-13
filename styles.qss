@@ -1,0 +1,119 @@
+* {
+    font-size: 12px;
+    font-family: "Segoe UI Variable Display";
+}
+
+QPushButton {
+    background-color: rgba(0, 0, 0, 14);
+    border: 1px solid rgba(0, 0, 0, 26);
+    border-radius: 7px;
+    min-height: 38px;
+    max-height: 38px;
+}
+QPushButton:hover {
+    background-color: rgba(0, 0, 0, 20);
+    border: 1px solid rgba(0, 0, 0, 26);
+}
+QPushButton::pressed {
+    color: rgba(0, 0, 0, 200);
+}
+QPushButton::disabled {
+    color: rgba(0, 0, 0, 110);
+    background-color: rgba(0, 0, 0, 26);
+    border: 1px solid rgba(0, 0, 0, 10);
+}
+
+QLineEdit {
+    background-color: rgba(0, 0, 0, 7);
+    border: 1px solid rgba(0, 0, 0, 13);
+    font-size: 14px;
+    font-family: "Segoe UI Variable Display";
+    font-weight: 550;
+    border-radius: 7px;
+    border-bottom: 1px solid rgba(0, 0, 0, 100);
+    padding-top: 0px;
+    padding-left: 5px;
+    max-height: 38px;
+    min-height: 38px;
+}
+QLineEdit:hover {
+    background-color: rgba(0, 0, 0, 13);
+    border: 1px solid rgba(0, 0, 0, 13);
+    border-bottom: 1px solid rgba(0, 0, 0, 100);
+}
+QLineEdit:focus {
+    border-bottom: 2px solid #0560b6;
+    background-color: rgba(0, 0, 0, 5);
+    border-top: 1px solid rgba(0, 0, 0, 13);
+    border-left: 1px solid rgba(0, 0, 0, 13);
+    border-right: 1px solid rgba(0, 0, 0, 13);
+}
+
+.accent {
+    color: #FFFFFF;
+    background-color: rgba(5, 96, 182, 255);
+}
+.accent:hover {
+    background-color: rgba(5, 96, 182, 230);
+}
+.accent::pressed {
+    color: #c1d8ee;
+    background-color: rgba(5, 96, 182, 210);
+}
+
+.icon_button {
+    font-size: 16px;
+    font-family: "Segoe Fluent Icons";
+    min-height: 42px;
+    max-height: 42px;
+    min-width: 42px;
+    max-width: 42px;
+}
+
+.infobar {
+    background-color: #d9d9d9;
+    color: #1f1f1f;
+    padding: 1px;
+    padding-left: 5px;
+    font-family: "Segoe UI Variable Small";
+    font-size: 11px
+}
+
+.message {
+    border-radius: 7px;
+}
+.ai {
+    background-color: rgba(0, 0, 0, 14);
+    border: 1px solid rgba(0, 0, 0, 26);
+}
+.user {
+    background-color: rgba(5, 96, 182, 40);
+    border: 1px solid rgba(5, 96, 182, 80);
+}
+.sender {
+    color: rgba(0, 0, 0, 100)
+}
+
+QScrollArea {
+    border: 0px;
+}
+
+.debug {
+    background-color: #00FF00;
+}
+
+/* 
+pip install pyside6, wolframalpha, pyttsx3, speechrecognition
+
+"History of conversation will be shown in here",
+"Tap the voice button to talk",
+"Or anually input text to communicate"
+
+api-key: 3WX9HU-3G9A2TGPTY
+sent-button: \ue725
+voice-button: \uf8b1
+scroll-area: resizable,
+Initializing...
+wolfram: ['subpod']['plaintext']
+self.main_scrollarea.verticalScrollBar().rangeChanged.connect(lambda _, max: self.main_scrollarea.verticalScrollBar().setSliderPosition(max))
+ */
