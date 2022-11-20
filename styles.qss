@@ -233,4 +233,5 @@ API-key: 3WX9HU-3G9A2TGPTY
 voice-toggle: ('\uf8b1', '\uf8ae')
 sidebar: ('\ue89f', '\ue8a0')
 sent: '\ue725'
+pip install pyaudio, pyside6, wolframalpha, pyttsx3, speech_recognition, unidecode
 */
