@@ -1,0 +1,162 @@
+{
+    "Lớp 9.1": {
+        "Phạm Uyên Thư": {
+            "giới tính": "Nữ",
+            "văn": "9.0",
+            "toán": "7.0",
+            "anh": "8.0"
+        },
+        "Nguyễn Ðại Dương": {
+            "giới tính": "Nam",
+            "văn": "7.0",
+            "toán": "8.0",
+            "anh": "9.0"
+        },
+        "Trần Gia Khang": {
+            "giới tính": "Nam",
+            "văn": "6.5",
+            "toán": "6.5",
+            "anh": "7.0"
+        },
+        "Lê Trúc Liên": {
+            "giới tính": "Nữ",
+            "văn": "7.5",
+            "toán": "7.5",
+            "anh": "6.0"
+        },
+        "Trần Tuệ Mẫn": {
+            "giới tính": "Nữ",
+            "văn": "6.5",
+            "toán": "6.0",
+            "anh": "9.0"
+        }
+    },
+    "Lớp 9.2": {
+        "Lê Tùng Lâm": {
+            "giới tính": "Nam",
+            "văn": "9.0",
+            "toán": "6.0",
+            "anh": "6.0"
+        },
+        "Nguyễn Thanh Nhung": {
+            "giới tính": "Nữ",
+            "văn": "8.5",
+            "toán": "7.5",
+            "anh": "6.0"
+        },
+        "Hoàng Ánh Ngọc": {
+            "giới tính": "Nữ",
+            "văn": "7.5",
+            "toán": "8.5",
+            "anh": "7.0"
+        },
+        "Nguyễn Thảo Uyên": {
+            "giới tính": "Nữ",
+            "văn": "9.0",
+            "toán": "9.0",
+            "anh": "8.0"
+        },
+        "Nguyễn Ngọc Đại": {
+            "giới tính": "Nữ",
+            "văn": "8.0",
+            "toán": "6.5",
+            "anh": "6.0"
+        }
+    },
+    "Lớp 9.3": {
+        "Lê Ðức Tài": {
+            "giới tính": "Nam",
+            "văn": "7.5",
+            "toán": "8.0",
+            "anh": "7.0"
+        },
+        "Lê Yên Mai": {
+            "giới tính": "Nữ",
+            "văn": "9.0",
+            "toán": "9.0",
+            "anh": "7.0"
+        },
+        "Nguyễn Bảo Phương": {
+            "giới tính": "Nữ",
+            "văn": "8.5",
+            "toán": "7.5",
+            "anh": "6.0"
+        },
+        "Lê Hùng Dũng": {
+            "giới tính": "Nam",
+            "văn": "7.0",
+            "toán": "6.5",
+            "anh": "6.0"
+        },
+        "Trần Bảo Thanh": {
+            "giới tính": "Nữ",
+            "văn": "6.0",
+            "toán": "6.5",
+            "anh": "6.5"
+        }
+    },
+    "Lớp 9.4": {
+        "Trần Ðình Chương": {
+            "giới tính": "Nam",
+            "văn": "9.5",
+            "toán": "6.0",
+            "anh": "6.5"
+        },
+        "Lê Quốc Hạnh": {
+            "giới tính": "Nam",
+            "văn": "7.0",
+            "toán": "6.0",
+            "anh": "6.5"
+        },
+        "Hoàng Tường Vy": {
+            "giới tính": "Nữ",
+            "văn": "6.5",
+            "toán": "8.5",
+            "anh": "8.5"
+        },
+        "Trần Ban Mai": {
+            "giới tính": "Nữ",
+            "văn": "7.0",
+            "toán": "7.5",
+            "anh": "6.5"
+        },
+        "Nguyễn Hải Đường": {
+            "giới tính": "Nam",
+            "văn": "8.0",
+            "toán": "9.5",
+            "anh": "7.0"
+        }
+    },
+    "Lớp 9.5": {
+        "Nguyễn Ánh Mai": {
+            "giới tính": "Nữ",
+            "văn": "9.5",
+            "toán": "6.5",
+            "anh": "6.0"
+        },
+        "Trần Nhan Hồng": {
+            "giới tính": "Nữ",
+            "văn": "6.5",
+            "toán": "8.5",
+            "anh": "6.0"
+        },
+        "Lê Quang Sáng": {
+            "giới tính": "Nam",
+            "văn": "7.0",
+            "toán": "7.5",
+            "anh": "7.5"
+        },
+        "Trần Hữu Tường": {
+            "giới tính": "Nam",
+            "văn": "9.5",
+            "toán": "9.5",
+            "anh": "9.0"
+        },
+        "Trần Diễm Thảo": {
+            "giới tính": "Nữ",
+            "văn": "7.0",
+            "toán": "7.5",
+            "anh": "8.0"
+        }
+    }
+}
